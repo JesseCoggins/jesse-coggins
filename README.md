@@ -22,18 +22,12 @@ This GitHub profile is organized as a portfolio of cleaned, public project repos
 
 ## Tools and Topics
 
-- Python
-- pandas
-- scikit-learn
-- TensorFlow / Keras
-- statsmodels
-- PuLP
-- FastAPI
-- MLflow
-- DVC
-- PostgreSQL
-- MongoDB
-- Tableau
+- Languages: Python, SQL
+- ML / DL: pandas, scikit-learn, TensorFlow, Keras, statsmodels
+- MLOps / APIs: MLflow, DVC, FastAPI, pytest
+- Databases: PostgreSQL, MongoDB
+- Optimization: PuLP
+- Visualization: Tableau
 
 ## What To Review First
 
@@ -42,7 +36,6 @@ If you're visiting this profile for a quick scan, start with:
 1. [flight-delay-mlops](https://github.com/jesse-coggins/flight-delay-mlops)
 2. [ecomart-relational-nosql-database-design](https://github.com/jesse-coggins/ecomart-relational-nosql-database-design)
 3. [loan-default-risk-capstone](https://github.com/jesse-coggins/loan-default-risk-capstone)
-4. [hospital-readmission-ml](https://github.com/jesse-coggins/hospital-readmission-ml)
 
 ## Dashboard Note
 
