@@ -37,6 +37,6 @@ If you're visiting this profile for a quick scan, start with:
 2. [ecomart-relational-nosql-database-design](https://github.com/jesse-coggins/ecomart-relational-nosql-database-design)
 3. [loan-default-risk-capstone](https://github.com/jesse-coggins/loan-default-risk-capstone)
 
-## Dashboard Note
+## Dashboard
 
-The customer churn dashboard repo is live on GitHub now, and the interactive Tableau Public version will be linked there once published.
+The customer churn dashboard is live on [Tableau Public](https://public.tableau.com/shared/Z8Z9SR2NB?:display_count=n&:origin=viz_share_link) with the GitHub companion repo at [customer-churn-dashboard](https://github.com/jesse-coggins/customer-churn-dashboard).
