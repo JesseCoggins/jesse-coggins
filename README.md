@@ -1,42 +1,40 @@
-# Hi, I'm Jesse Coggins
+# Jesse Coggins — Data Analyst · Data Scientist
 
-I build applied data science and machine learning projects focused on predictive modeling, experimentation, deployment, optimization, and business-facing analytics.
+**Portfolio site:** [jesse-coggins.github.io](https://jesse-coggins.github.io)
 
-This GitHub profile is organized as a portfolio of cleaned, public project repositories built from graduate coursework completed in Western Governors University's (WGU) M.S. in Data Analytics program and rewritten into recruiter-friendly repo formats.
+Nearly a decade of multi-site operations leadership — KPI tracking, revenue reporting, labor analysis, throughput optimization — now applied across a public portfolio of machine learning, forecasting, deep learning, databases, optimization, and MLOps work.
+
+---
 
 ## Featured Projects
 
-- [Flight Delay MLOps Pipeline](https://github.com/jesse-coggins/flight-delay-mlops): End-to-end flight delay prediction pipeline using DVC, MLflow, FastAPI, pytest, and reproducible project structure.
-- [EcoMart Relational + NoSQL Database Design](https://github.com/jesse-coggins/ecomart-relational-nosql-database-design): PostgreSQL and MongoDB portfolio project with schema design, views, indexes, analytical SQL, and Mongo queries.
-- [Loan Default Risk Capstone](https://github.com/jesse-coggins/loan-default-risk-capstone): Random Forest classification project for loan default prediction with class imbalance handling and cross-validated tuning.
-- [Hospital Readmission ML](https://github.com/jesse-coggins/hospital-readmission-ml): Combined classification, clustering, and PCA analysis on hospital readmission data.
-- [Revenue Forecasting with ARIMA](https://github.com/jesse-coggins/revenue-forecasting-arima): Time-series forecasting project using stationarity testing, ARIMA modeling, and forecast evaluation.
-- [Sentiment Analysis with BiLSTM](https://github.com/jesse-coggins/sentiment-analysis-bilstm): NLP project using a Bidirectional LSTM model for binary sentiment classification.
+**[Flight Delay MLOps Pipeline](https://github.com/jesse-coggins/flight-delay-mlops)**
+End-to-end ML pipeline: DVC data versioning, MLflow experiment tracking, FastAPI prediction endpoint, Docker containerization, GitLab CI/CD. Test MSE: 82.51.
+
+**[Loan Default Risk Capstone](https://github.com/jesse-coggins/loan-default-risk-capstone)**
+Random Forest classifier on 148,670 loan records with class imbalance handling, stratified k-fold cross-validation, and GridSearchCV tuning. ROC-AUC: 0.737.
+
+**[Customer Churn Dashboard](https://github.com/jesse-coggins/customer-churn-dashboard)**
+Interactive Tableau dashboard published to [Tableau Public](https://public.tableau.com/shared/Z8Z9SR2NB?:display_count=n&:origin=viz_share_link). Churn rate: 26.50%, avg monthly charge: $172.62.
+
+**[Hospital Readmission Analysis](https://github.com/jesse-coggins/hospital-readmission-ml)**
+Random Forest classification (accuracy: 97.9%, ROC-AUC: 0.999), K-Means clustering, and PCA on hospital readmission data.
+
+---
 
 ## More Portfolio Work
 
-- [Seedling Image Classifier](https://github.com/jesse-coggins/seedling-image-classifier)
-- [Cargo Network Optimization](https://github.com/jesse-coggins/cargo-network-optimization)
-- [Statistical Analysis and Market Basket](https://github.com/jesse-coggins/statistical-analysis-and-market-basket)
-- [Customer Churn Dashboard](https://github.com/jesse-coggins/customer-churn-dashboard)
+| Repo | Topic |
+|---|---|
+| [revenue-forecasting-arima](https://github.com/jesse-coggins/revenue-forecasting-arima) | ARIMA time series forecasting · RMSE 0.4887 |
+| [ecomart-relational-nosql-database-design](https://github.com/jesse-coggins/ecomart-relational-nosql-database-design) | PostgreSQL 3NF + MongoDB · 100K records |
+| [sentiment-analysis-bilstm](https://github.com/jesse-coggins/sentiment-analysis-bilstm) | BiLSTM sentiment classifier · accuracy 76% |
+| [seedling-image-classifier](https://github.com/jesse-coggins/seedling-image-classifier) | CNN image classifier · 12 classes · accuracy 66.62% |
+| [cargo-network-optimization](https://github.com/jesse-coggins/cargo-network-optimization) | Linear programming · PuLP · optimal cost $200,863.75 |
+| [statistical-analysis-and-market-basket](https://github.com/jesse-coggins/statistical-analysis-and-market-basket) | Regression, PCA, hypothesis testing, Apriori · lift 88.2 |
 
-## Tools and Topics
+---
 
-- Languages: Python, SQL
-- ML / DL: pandas, scikit-learn, TensorFlow, Keras, statsmodels
-- MLOps / APIs: MLflow, DVC, FastAPI, pytest
-- Databases: PostgreSQL, MongoDB
-- Optimization: PuLP
-- Visualization: Tableau
+## Stack
 
-## What To Review First
-
-If you're visiting this profile for a quick scan, start with:
-
-1. [flight-delay-mlops](https://github.com/jesse-coggins/flight-delay-mlops)
-2. [ecomart-relational-nosql-database-design](https://github.com/jesse-coggins/ecomart-relational-nosql-database-design)
-3. [loan-default-risk-capstone](https://github.com/jesse-coggins/loan-default-risk-capstone)
-
-## Dashboard
-
-The customer churn dashboard is live on [Tableau Public](https://public.tableau.com/shared/Z8Z9SR2NB?:display_count=n&:origin=viz_share_link) with the GitHub companion repo at [customer-churn-dashboard](https://github.com/jesse-coggins/customer-churn-dashboard).
+Python · SQL · scikit-learn · TensorFlow · Keras · pandas · statsmodels · MLflow · DVC · FastAPI · Docker · PostgreSQL · MongoDB · PuLP · Tableau
