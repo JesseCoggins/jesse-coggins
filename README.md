@@ -1,6 +1,6 @@
 # Jesse Coggins — Data Analyst · Data Scientist
 
-**Portfolio site:** [jessecoggins.github.io](https://jessecoggins.github.io)
+**Portfolio site:** [JesseCoggins.github.io](https://JesseCoggins.github.io)
 
 Nearly a decade of multi-site operations leadership — KPI tracking, revenue reporting, labor analysis, throughput optimization — now applied across a public portfolio of machine learning, forecasting, deep learning, databases, optimization, and MLOps work.
 
