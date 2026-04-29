@@ -38,4 +38,3 @@ Random Forest classification (accuracy: 97.9%, ROC-AUC: 0.999), K-Means clusteri
 ## Stack
 
 Python · SQL · scikit-learn · TensorFlow · Keras · pandas · statsmodels · MLflow · DVC · FastAPI · Docker · PostgreSQL · MongoDB · PuLP · Tableau
-
